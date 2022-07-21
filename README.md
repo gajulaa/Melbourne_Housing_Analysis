@@ -1,7 +1,10 @@
 # Melbourne_Housing_Analysis
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
 Snapshot of scraped data from publicly available real estate information housed in Domain's website. Domain is a leading Australian property marketplace made-up of a portfolio of brands.
 
-Information on Variables present in the .csv file 
+Information on Variables present in the .csv file: (homes with no Price have been removed)
 
 Rooms: Number of rooms
 
