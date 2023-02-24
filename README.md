@@ -26,7 +26,7 @@ SellerG: Real Estate Agent
 
 Date: Date sold
 
-Distance: Distance from CBD
+Distance: Distance from Central Business District (Melbourne)
 
 Regionname: General Region (West, North West, North, North east …etc)
 
